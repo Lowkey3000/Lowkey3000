@@ -40,12 +40,16 @@ const jordan = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### ⚙️ Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -94,6 +98,30 @@ const jordan = {
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+### 💪 PerforFit AI — Fitness Dashboard
+> Plataforma de fitness con IA coach personalizado basado en progreso real
+
+- 🔧 **Rol:** Full Stack Developer
+- 🗄️ **Stack:** `Next.js` · `Django` · `TailwindCSS` · `Llama 3.1`
+- 🤖 IA Coach con contexto del usuario en tiempo real
+- 🔗 [Backend](https://github.com/lowkey3000/perforfit-backend) · [Frontend](https://github.com/lowkey3000/perforfit-frontend)
+
+</td>
+<td width="50%">
+
+### 🎮 Valorant Mate — Stats Tracker
+> Tracker de estadísticas de Valorant: agentes, mapas y armas
+
+- 🔧 **Rol:** Frontend Developer
+- 🗄️ **Stack:** `Angular` · `TypeScript` · `Valorant API`
+- 🔍 Búsqueda y visualización de datos del juego
+- 🔗 [Repositorio](https://github.com/lowkey3000/valorant-mate)
+
+</td>
+</tr>
 </table>
 
 ---
@@ -123,8 +151,6 @@ const jordan = {
 | 📜 | IT Support Basics | CISCO | 2026 |
 | 📜 | Gestión de Proyectos Informáticos | IP Santo Tomás | 2025 |
 | 📜 | Programación Avanzada | IP Santo Tomás | 2025 |
-
----
 
 ---
 
